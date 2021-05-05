@@ -3,7 +3,7 @@
             cd Sender
             sudo apt-get update && sudo apt-get upgrade
             sudo chmod +x *
-            sudo./setup.sh
+            sudo ./setup.sh
             sudo ./sender.sh
 --------------------------------
 
