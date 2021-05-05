@@ -3,8 +3,8 @@
             cd Sender
             sudo apt-get update && sudo apt-get upgrade
             sudo chmod +x *
-           ./setup.sh
-           ./sender.sh
+            sudo./setup.sh
+            sudo ./sender.sh
 --------------------------------
 
 Send any file via an ngrok link
